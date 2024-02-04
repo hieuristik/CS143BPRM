@@ -1,3 +1,5 @@
+# adding something for testing purposes
+
 FREE_DICT = {0: False,
              1: False,
              2: False,
